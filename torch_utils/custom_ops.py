@@ -29,6 +29,7 @@ verbosity = 'brief' # Verbosity level: 'none', 'brief', 'full'
 def _find_compiler_bindir():
     patterns = [
         'C:/Program Files*/Microsoft Visual Studio/*/Professional/VC/Tools/MSVC/*/bin/Hostx64/x64',
+        'C:/Program Files*/Microsoft Visual Studio/*/Professional/VC/Tools/MSVC/*/bin/Hostx64/x64',
         'C:/Program Files*/Microsoft Visual Studio/*/BuildTools/VC/Tools/MSVC/*/bin/Hostx64/x64',
         'C:/Program Files*/Microsoft Visual Studio/*/Community/VC/Tools/MSVC/*/bin/Hostx64/x64',
         'C:/Program Files*/Microsoft Visual Studio */vc/bin',
